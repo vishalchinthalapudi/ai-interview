@@ -1,0 +1,10 @@
+streamlit
+supabase
+gtts
+speechrecognition
+plotly
+pandas
+openai
+python-dotenv
+PyPDF2
+PyAudio
