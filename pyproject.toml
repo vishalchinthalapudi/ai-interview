@@ -1,7 +1,7 @@
 [project]
 name = "ai-interview"
 version = "0.1.0"
-description = "Add your description here"
+description = "An AI-powered interview platform that conducts technical and HR interviews using resume and job description analysis, voice/text input, automated scoring, and Supabase-backed interview history."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
